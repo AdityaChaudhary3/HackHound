@@ -52,6 +52,12 @@ The Mangalavye is an **RFID Based Restaurant Food Ordering System** ,initially m
 - CSS  :  Used it for styling .<br>
 - [JAVASCRIPT:](https://developer.mozilla.org/en-US/docs/Web/JavaScript):Please Refer to Official Documentation.
 
+<h3 align="left" > BACKEND</h3>
+
+- MYSQL : Used to create the database.
+- PHP   : Create and Handle the Databade Server.
+
+
 <!-- CONTACT -->
 <h2 align="left" > Contact</h2>
 <p>
@@ -59,5 +65,6 @@ The Mangalavye is an **RFID Based Restaurant Food Ordering System** ,initially m
 📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
    
 </a> 
+
 </p>
 
