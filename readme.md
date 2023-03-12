@@ -54,9 +54,9 @@ The Mangalavye is an **RFID Based Restaurant Food Ordering System** ,initially m
 
 <h3 align="left" > BACKEND</h3>
 
-- MYSQL : Used to create the database.
-- PHP   : Create and Handle the Databade Server.
-
+- MYSQL  : Used to create the database.
+- PHP    : Create and Handle the Databade Server.
+- Django : For handling all the backend.
 
 <!-- CONTACT -->
 <h2 align="left" > Contact</h2>
